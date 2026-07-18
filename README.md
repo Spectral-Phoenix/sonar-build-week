@@ -2,6 +2,10 @@
 
 Sonar is split into a React frontend and a Python/FastAPI evaluation backend.
 
+## Demo
+
+[Watch the Sonar product walkthrough on Loom](https://www.loom.com/share/0372e7aa51404affbd1cf6a1f42ceb68)
+
 The backend automatically evaluates every enabled model once per hour using schedules saved from
 **Settings**. The first run starts when a model is added—there is no manual evaluation button. Results are
 stored as append-only runs, samples, judge decisions, and fingerprints. **Data** supports preset
