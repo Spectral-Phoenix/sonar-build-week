@@ -1,6 +1,6 @@
 # Sonar
 
-Sonar is split into a React frontend and a Python/FastAPI evaluation backend.
+Sonar is split into a React frontend and a Python / FastAPI evaluation backend.
 
 ## Demo
 
